@@ -1,3 +1,4 @@
+% Yashar Zafari - 99106209 - Robotics Homework 2
 function [position] = RPP_Pos(theta,d1,d2)
 position=[];
 L1=45;L2=22.5;L3=30;
